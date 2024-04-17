@@ -1,6 +1,6 @@
-<h1 align="center">Server</h1>
+<h1 align="center">Mini Project</h1>
 
-## Server
+## Server Configuration
 ## Requirements
 Before setup the project, you need to install this : 
 - **Docker Compose**
@@ -20,7 +20,7 @@ Before setup the project, you need to install this :
 - DB / MongoDB : `http://localhost:27018`
 - API Document : `http://localhost:8080/api/v1/documentation`
 
-<h1 align="center">Client</h1>
+## Client Configuration
 ## Installation Guide
 - Run npm install to install all dependencies
 - Create ENV file :
